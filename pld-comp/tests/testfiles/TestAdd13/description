@@ -1,0 +1,5 @@
+Affectation, déclaration de variables et opérations arithmétiques
+int b = 3;
+int c = 2;
+int a = c + b;
+return a;

@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+pld-comp/compiler/build
+pld-comp/compiler/generated
+pld-comp/compiler/ifcc
+pld-comp/tests/ifcc-test-output
+./vscode
+=======
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+pld-comp/compiler/build
+pld-comp/compiler/generated
+pld-comp/compiler/ifcc
+pld-comp/tests/ifcc-test-output
+./vscode
+./.vscode
+./pld-comp/antlr
+>>>>>>> FONCTIOSNFIX
